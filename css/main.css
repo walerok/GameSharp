@@ -71,3 +71,18 @@ height: 284px;
   border: none;
   cursor:pointer;
  background:url(../images/submitRespTr_03.gif) no-repeat;}
+ #IsTraining{
+ 
+ 
+ height: 230px;
+ background-color:#f5f5f5;
+ padding-left: 100px;}
+ #IsTraining h2{ font: 24px Tahoma; font-weight: bold;}
+ 
+  #IsTraining ul{ list-style:none;
+  }
+  .mainTab td{ vertical-align: top; padding-left: 20px; padding-top: 10px; }
+ #IsTraining a{ color: #2d2e2f; text-decoration: none;
+ 
+ font: 24px Tahoma; }
+  #IsTraining a:hover{ text-decoration:underline;}

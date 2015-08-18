@@ -86,3 +86,19 @@ height: 284px;
  
  font: 24px Tahoma; }
   #IsTraining a:hover{ text-decoration:underline;}
+  
+ #GameOtz {
+ 
+ 
+ padding-left: 100px;}
+ .review{ margin-top: 10px; }
+ .reviewImg{ width:100px; height:110px; float:left;}
+ .reviewText{margin-left: 100px; width: 750px;
+ height: 110px; padding-left: 20px;}
+   .reviewText h3{ font: italic 14px Arial, Helvetica, sans-serif; margin-top: 20px; margin-bottom:20px;}
+   .reviewText h4{ font: 14px Arial, Helvetica, sans-serif; color:#FF0000;}
+   #footer{ height: 250px; background-color:#40393F; color: #FFFFFF; padding-top: 20px;
+ 
+   }
+   #footmenu{ border-bottom:1px solid #000000 ; border-top: 1px solid #000000; background:#2A2A2A;
+   padding-left: 100px; }

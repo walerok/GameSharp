@@ -101,4 +101,8 @@ height: 284px;
  
    }
    #footmenu{ border-bottom:1px solid #000000 ; border-top: 1px solid #000000; background:#2A2A2A;
-   padding-left: 100px; }
+   padding-left: 100px; height: 200px; }
+   #footmenu li {list-style: none;}
+   #footmenu a{display: block; float: left; width: 200px; color:#FFFFFF; font: 20px Tahoma; margin-top: 20px;}
+.mainTab1,   .mainTab1 td{ vertical-align: top; font: 12px Arial, Helvetica, sans-serif;}
+#Resp1{ padding-left: 120px; padding-top: 30px}
